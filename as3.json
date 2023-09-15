@@ -68,7 +68,7 @@
                      "virtualAddresses": [
                          "10.0.3.30"
                      ],
-                     "pool": "web_pool"
+                     "pool": {"bigip": "/Common/Shared/poolRoundRobin"}
                  },
                  "web_pool": {
                      "class": "Pool",
