@@ -12,7 +12,7 @@
   tasks:
   - name: Create a VIP
     uri:
-      url: https://20.0.58.197/mgmt/shared/appsvcs/declare
+      url: https://192.168.1.254/mgmt/shared/appsvcs/declare
       user: "{{ bigip_user }}"
       password: "{{ bigip_password }}"
       method: POST
