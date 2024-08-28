@@ -1,0 +1,1 @@
+rsync -Ra /home/ada/containers/ /home/ada/configs/ /home/ada/git/ /home/ada/lottery/ /home/ada/.bashrc /home/ada/.msmtprc /home/ada/.ssh/ /home/ada/.tmux.conf /home/ada/.vim /home/ada/.vimrc /etc/ufw/user.rules /var/spool/cron/crontabs/ada /opt/cardano/cnode/files /opt/cardano/cnode/priv/ /opt/cardano/cnode/scripts/ /home/ada/backup/
